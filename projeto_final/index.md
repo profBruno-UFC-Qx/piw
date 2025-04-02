@@ -2,10 +2,9 @@
 title: Projeto Final
 has_children: true
 has_toc: true
-prazo_proposta: 14/09/2023
-prazo_modelagem: 10/10/2023
-prazo_codigo: 26/11/2023
-formulario_proposta: https://forms.gle/txEbZAkWUZxXEvrJ7
+prazo_proposta: A Definir
+prazo_modelagem: A Definir
+prazo_codigo: A Definir
 ---
 
 # Projeto Final
@@ -14,6 +13,8 @@ formulario_proposta: https://forms.gle/txEbZAkWUZxXEvrJ7
 * [Requisitos mínimos](#req)
 * [Critérios de avaliação](#criterios)
 * [Entregas](#entregas)
+
+<!--
   * [Proposta](#proposta)
   * [Configurando o backend](#back01)
   * [API REST de Usuários](#back02)
@@ -22,6 +23,8 @@ formulario_proposta: https://forms.gle/txEbZAkWUZxXEvrJ7
   * [Página de login e cadastro](#front01)
   * [Protegendo rotas no front](#front02)
   * [Entrega final](#final)
+-->
+
 * [Apresentação do projeto](#apresentacao)
 
 ---
@@ -31,6 +34,9 @@ formulario_proposta: https://forms.gle/txEbZAkWUZxXEvrJ7
 Desenvolver uma aplicação web completa que inclua tanto o **frontend** quando o **backend**.
 O **backend** será desenvolvido utilizando **Node.js e Express** para criar uma **API REST**, 
 enquanto o **frontend** será construído em **Vue.js**.
+
+{:  .new }
+A temática do projeto deve possuir viés de extensão. Se você precisa de inspiração confira a página <a href="https://profbruno-ufc-qx.github.io/HubEx/" alt="Site com ideias de projetos relacionados com extensão" target="_blank">HubEx, que contém ideias de projetos de extensão.</a>
 
 O trabalho pode ser feito em equipe
 {: .label .label-blue }
@@ -110,47 +116,14 @@ TODOS os membros da equipe devem se envolver em atividades que incluem a ESCRITA
 
 ## Entregas
 
+**Em construção**
+
+<!--
 Com o intuito de tentar acompanhar o desenvolvimento do projeto final, X entregas são previstas.
 
 ### Entrega 00:  Envio da proposta <a name="proposta"></a>
 
 O envio da proposta deve ser feita via SIGAA.
-
-<!--
-O autor do trabalho ou a equipe, deve escolher o domínio da aplicação, ex: um loja online de doces, e também deve descrever as funcionalidades do sistema, explicando **resumidamente os requisitos do sistema com suas entidades principais**. Essa definição deve ser enviada e **aprovada pelo professor**. 
-
-Para auxiliar nessa tarefa, vocês irão realizar criar um repositório no GitHub a partir deste <a href="https://github.com/profBruno-UFC-Qx/qxd0020-projeto-final/generate" target="_blank">template</a>. Como vocês podem ver, o **Readme.md** já vem previamente preenchido com um modelo. 
-Vocês devem alterar o modelo de acordo com a realidade da proposta de projeto final de vocês. Vocês podem consultar <a href="https://github.com/profBruno-UFC-Qx/qxd0020-manga-store" target="_blank">o repositório da MangaStore</a>.
-
-Depois disso, a proposta deve ser enviada por meio do seguinte <a href="{{ page.formulario_proposta }}" target="_blank">formulário</a>.
-
-Prazo final de entrega: {{ page.prazo_proposta }}
-{: .label .label-red }
-
-Os trabalhos devem necessariamente ter domínios distintos. 
-{: .label .label-yellow }
-
-A ordem de envio para o professor determina quem tem prioridade por determinado domínio. Caso o domínio já tenha sido escolhido por outro aluno, deve-se propor um novo domínio.
-{: .label .label-yellow }
-
-## Modelagem e rascunho da interface <a name="envio2"></a>
-
-É esperado que nesse momento, a equipe já tenha em mente de forma clara as principais funcionalidades do sistema e para isso, é necessário que os dados estejam devidamente modelados.
-
-A entrega da modelagem deve ser feita de duas formas:
-  - Um digrama entidade relacional ou um diagrama de classes que deixe claro como as entidades se relacionam
-  - A "implementação" dessa modelagem utilizando **Strapi**.
-
-Com uma visão clara das funcionalidades do projeto, a equipe deve também entregrar a primeira versão das telas do sistemas. Estas telas devem ser construídas usando HTML, CSS e JavaScript (ou TypeScript). Como são primeiras versões, dados fictícios devem/podem ser utilizados.
-
-No prazo final da entrega, todo esse conteúdo deve estar presente no repositório do GitHub do projeto final, enviado juntamente com a proposta do projeto final.
-{: .label .label-yellow }
-
-
-Prazo final de entrega: {{ page.prazo_modelagem }}
-{: .label .label-red }
-
--->
 
 ### Entrega 01: Projeto do backend configurado com TypeScript <a name="back01"></a>
 
@@ -197,14 +170,14 @@ por meio da tecnologia **JWT - Json Web Token**.  Com isso você deve alterar a 
 <span class="label label-blue">Vale 1 ponto</span> <span class="label label-red">Data de entrega: 26/08/24 às 6:00</span>
 
 
-<!--
+-
 ### Entrega 05: Regras de negócios implementadas <a name="back05"></a>
 
 Em teoria essa é devem a última entrega do backend, portanto, ao final desta entregas todas as regras de negócios necessárias para que sua aplicação funcione corretamente devem ser implementadas.
 É natural que ao longo do desenvolvimento do **frontend**, sejam necessária realizar algumas mudanças no **backend**, portanto não se preocupe com isso.
 
 <span class="label label-blue">Vale 1 ponto</span>
--->
+
 
 ### Entrega 05: Página de login e cadastro <a name="front01"></a>
 
@@ -239,7 +212,7 @@ Não serão aceitos trabalhos implementados em um único commit.
 
 Não serão aceitos trabalhos enviados em formato compactados, ex: zip, rar e similares
 {: .label .label-red }
-
+-->
 ### Apresentação do trabalho <a name="apresentacao"></a>
 
 O trabalho também deverá necessariamente ser apresentado conforme cronograma da disciplina. A não apresentação do trabalho pelo aluno em sua anulação.
