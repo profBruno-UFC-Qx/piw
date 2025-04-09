@@ -1,7 +1,7 @@
 ---
-title: Aula 11 - Criando páginas dinâmicas modernas
+title: Aula 11 - Criando APIs REST
 nav_order: 11
 has_children: true
 has_toc: false
-next: 01-arquitetura-mvc
+next: middleware
 ---

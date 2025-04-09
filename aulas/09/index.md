@@ -1,7 +1,7 @@
 ---
-title: Aula 09 - Um mundo estático
+title: Aula 09 - O início da interatividade 
 nav_order: 9
-has_children: true
+has_children: false
 has_toc: false
-next: 01-introducao
+youtubeId: HQWFNwvxZx0
 ---

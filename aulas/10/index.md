@@ -1,7 +1,7 @@
 ---
-title: Aula 10 - O início da interatividade 
+title: Aula 10 - Criando páginas dinâmicas modernas
 nav_order: 10
-has_children: false
+has_children: true
 has_toc: false
-youtubeId: HQWFNwvxZx0
+next: 01-arquitetura-mvc
 ---

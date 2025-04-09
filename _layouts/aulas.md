@@ -6,7 +6,7 @@ layout: default
 {% assign title = page.title | split: "-"  %}
 {% assign slide =  title[1] | replace: " ", "-" | prepend: page.nav_order %}
     
-    {% if page.nav_order < 10 %}
+    {% if page.nav_order < 9 %}
     {% assign slide =   slide | prepend: "0" %}
     {% assign next = page.nav_order | plus: 1 | prepend: "0" %}
     {% else %}
